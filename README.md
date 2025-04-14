@@ -7,15 +7,15 @@
 - PHP 8.1+
 - Composer
 - SQLite / MySQL
-- Laravel 9+
+- Laravel 10+
 
 ## Установка
 
 1. Клонируй репозиторий:
 
 ```bash
-   git clone https://github.com/your-username/task-api.git
-   cd task-api
+   git clone https://github.com/Workerweb/DA-test.git
+   cd DA-test
 ```
 
 2. Установи зависимости:
